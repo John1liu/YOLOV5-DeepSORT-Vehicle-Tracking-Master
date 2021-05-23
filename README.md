@@ -5,7 +5,7 @@ In this project, urban traffic videos are collected from the middle section of X
 Python 3.6 or later with all requirements.txt dependencies installed, including torch>=1.7. To install run:
 `pip install -r requirements.txt`
 
-#Run Tracker
+# Run Tracker
 After you download this project, please download the weight of YOLO V5 model and Deep-SORT model respectively. 
 You can download the YOLO weight trained by me from https://drive.google.com/file/d/1-8Xm3eUMMJF5XNiF649kqnqoYeWhv3kT/view?usp=sharing or choose to download the pretrained weight of the YOLO V5 model with using the `./yolov5/weights/downloadweight.sh`.
 
@@ -30,16 +30,16 @@ MOT compliant results can be saved to `inference/output` by
 python3 track.py --source ... --save-txt
 ```
 
-#Result
+# Result
 https://drive.google.com/file/d/1-2hL9UE3i24bRE0an9HTDbN5bJBEeXfg/view?usp=sharing
 
-#Train YOLO weights with your datasets
+# Train YOLO weights with your datasets
 Please have a reference on https://github.com/ultralytics/yolov5.
 
-#Train Deep-SORT weights with your datasets
+# Train Deep-SORT weights with your datasets
 Updating now......
 I consider to create a new repository about it now......
 
-#References
+# References
 https://github.com/ultralytics/yolov5
 Simple Online and Realtime Tracking with a Deep Association Metric https://arxiv.org/abs/1703.07402
