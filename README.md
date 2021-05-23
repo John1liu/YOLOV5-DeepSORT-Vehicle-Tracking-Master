@@ -34,6 +34,7 @@ python3 track.py --source ... --save-txt
 
 # Result
 https://drive.google.com/file/d/1-2hL9UE3i24bRE0an9HTDbN5bJBEeXfg/view?usp=sharing
+![1](https://user-images.githubusercontent.com/64308326/119247613-9fd9db80-bbbd-11eb-9280-4a687e2a8250.jpg)
 
 # Train YOLO weights with your datasets
 Please have a reference on https://github.com/ultralytics/yolov5.
