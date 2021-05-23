@@ -3,7 +3,9 @@ In this project, urban traffic videos are collected from the middle section of X
 
 # Installation
 Python 3.6 or later with all requirements.txt dependencies installed, including torch>=1.7. To install run:
-`pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 # Run Tracker
 After you download this project, please download the weight of YOLO V5 model and Deep-SORT model respectively. 
