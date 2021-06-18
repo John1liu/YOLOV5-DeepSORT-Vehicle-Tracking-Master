@@ -1,5 +1,6 @@
 # YOLOV5-DeepSORT-Vehicle-Tracking-Master
 In this project, urban traffic videos are collected from the middle section of Xi 'an South Second Ring Road with a large traffic flow, and interval frames are extracted from the videos to produce data sets for training and verification of YOLO V5 neural network. Combined with the detection results, the open-source vehicle depth model data set is used to train the vehicle depth feature weight file, and the deep-sort algorithm is used to complete the target tracking, which can realize real-time and relatively accurate multi-target recognition and tracking of moving vehicles.
+And I also upload my dissertation of bachelor degree, I think you can learn about how to set up this project via this paper (But it is in simplified Chinese.).
 
 # Installation
 Python 3.6 or later with all requirements.txt dependencies installed, including torch>=1.7. To install run:
@@ -44,5 +45,5 @@ Updating now......
 I consider to create a new repository about it now......
 
 # References
-https://github.com/ultralytics/yolov5
+https://github.com/ultralytics/yolov5 
 Simple Online and Realtime Tracking with a Deep Association Metric https://arxiv.org/abs/1703.07402
