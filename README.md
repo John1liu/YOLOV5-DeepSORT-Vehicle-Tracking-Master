@@ -41,6 +41,7 @@ https://drive.google.com/file/d/1-2hL9UE3i24bRE0an9HTDbN5bJBEeXfg/view?usp=shari
 Please have a reference on https://github.com/ultralytics/yolov5.
 
 # Train Deep-SORT weights with your datasets
+I have update my datasets about the appearance of cars from https://drive.google.com/file/d/1lushuv4QMTmfFwURU1Ug6mezkzQAMi0S/view?usp=sharing. You can choose to read the original paper of Deep-SORT to learn how to train it. I will also update quickly.
 Updating now......
 I consider to create a new repository about it now......
 
